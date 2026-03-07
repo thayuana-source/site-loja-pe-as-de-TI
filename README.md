@@ -12,4 +12,7 @@
 A ia copilit entregou um projeto 100% esperado no html 
 no css houve mistura de assuntos porem revisados ate o resultado esperado.
 
-  
+  ![Screenshot_6-3-2026_222847_](https://github.com/user-attachments/assets/63ec29ed-623a-4fcf-b85b-3c370b18a516)
+<p align="center">
+  <img src="![Screenshot_6-3-2026_222847_](https://github.com/user-attachments/assets/63ec29ed-623a-4fcf-b85b-3c370b18a516).jpeg" width="800" alt="Preview do projeto">
+</p>
